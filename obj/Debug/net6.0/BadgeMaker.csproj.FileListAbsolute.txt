@@ -1,0 +1,15 @@
+D:\Coding_Projects\BadgeMaker\bin\Debug\net6.0\BadgeMaker.exe
+D:\Coding_Projects\BadgeMaker\bin\Debug\net6.0\BadgeMaker.deps.json
+D:\Coding_Projects\BadgeMaker\bin\Debug\net6.0\BadgeMaker.runtimeconfig.json
+D:\Coding_Projects\BadgeMaker\bin\Debug\net6.0\BadgeMaker.dll
+D:\Coding_Projects\BadgeMaker\bin\Debug\net6.0\BadgeMaker.pdb
+D:\Coding_Projects\BadgeMaker\obj\Debug\net6.0\BadgeMaker.csproj.AssemblyReference.cache
+D:\Coding_Projects\BadgeMaker\obj\Debug\net6.0\BadgeMaker.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding_Projects\BadgeMaker\obj\Debug\net6.0\BadgeMaker.AssemblyInfoInputs.cache
+D:\Coding_Projects\BadgeMaker\obj\Debug\net6.0\BadgeMaker.AssemblyInfo.cs
+D:\Coding_Projects\BadgeMaker\obj\Debug\net6.0\BadgeMaker.csproj.CoreCompileInputs.cache
+D:\Coding_Projects\BadgeMaker\obj\Debug\net6.0\BadgeMaker.dll
+D:\Coding_Projects\BadgeMaker\obj\Debug\net6.0\refint\BadgeMaker.dll
+D:\Coding_Projects\BadgeMaker\obj\Debug\net6.0\BadgeMaker.pdb
+D:\Coding_Projects\BadgeMaker\obj\Debug\net6.0\BadgeMaker.genruntimeconfig.cache
+D:\Coding_Projects\BadgeMaker\obj\Debug\net6.0\ref\BadgeMaker.dll
