@@ -16,7 +16,9 @@ namespace BadgeMaker
                 {
                     break;
                 }
-                employees.Add(input);
+                // Create a new Employee Instance
+                Employee currentEmployee = new Employee(input, "Smith");
+                employees.Add(currentEmployee.GetName());
             }
             return employees;
         }
@@ -37,3 +39,4 @@ namespace BadgeMaker
         }
     }
 }
+
